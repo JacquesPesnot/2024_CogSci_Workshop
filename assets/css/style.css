@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 <style>
 tr:nth-child(even) {
   background-color: #b2b2b2;
