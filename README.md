@@ -8,6 +8,23 @@ The present workshop aims to delineate and discuss the implications of this phen
 - When and why do natural and artificial systems rely on in-context versus in-weights learning?
 - How does in-context learning relate to classical concepts from cognitive science?
 
+
+# Program
+
+| Time (CEST) | Speaker | Title |
+|:-----|:-----|:-----|
+| 10h | Marcel Binz | Introduction to in-context learning |
+| TBD | Stephanie Chan | What do you need for in-context learning in transformers? |
+| TBD | Roma Patel | Towards understanding the (conceptual) structure of language models |
+| TBD | Ishita Dasgupta | Concepts and categories within context |
+| TBD | Akshay K. Jagadish | Ecologically rational meta-learned inference explains human category learning |
+| TBD | Jacques Pesnot Lerousseau | Training data distribution drives in-context learning in humans and transformers |
+| TBD | James Whittington | Different algorithms for in-context learning in prefrontal cortex and the hippocampal formation |
+| TBD | Greta Tucktuke | Modeling human language processing using large language model |
+| TBD | Tom McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
+| TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Tom Griffiths <br> Micha Heilbron <br> Brenden Lake | Panel discussion |
+
+
 # Speakers
 
 ### Stephanie Chan
@@ -25,21 +42,6 @@ Greta Tucktuke is a PhD candidate at the Department of Brain and Cognitive Scien
 ### Tom McCoy
 Tom McCoy is an assistant professor in the Department of Linguistics at Yale University. He studies the computational principles that underlie human language using techniques from cognitive science, machine learning, and natural language processing.
 
-
-# Program
-
-| Time (CEST) | Speaker | Title |
-|:-----|:-----|:---------------------------------|
-| 10h | Marcel Binz | Introduction to in-context learning |
-| TBD | Stephanie Chan | What do you need for in-context learning in transformers? |
-| TBD | Roma Patel | Towards understanding the (conceptual) structure of language models |
-| TBD | Ishita Dasgupta | Concepts and categories within context |
-| TBD | Akshay K. Jagadish | Ecologically rational meta-learned inference explains human category learning |
-| TBD | Jacques Pesnot Lerousseau | Training data distribution drives in-context learning in humans and transformers |
-| TBD | James Whittington | Different algorithms for in-context learning in prefrontal cortex and the hippocampal formation |
-| TBD | Greta Tucktuke | Modeling human language processing using large language model |
-| TBD | Tom McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
-| TBD | Christopher Summerfield // Morgan Barense // Alison Gopnick, Tom Griffiths, Micha Heilbron, Brenden Lake | Panel discussion |
 
 # Organisers
 
