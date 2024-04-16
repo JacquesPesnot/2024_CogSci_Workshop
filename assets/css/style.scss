@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+tr:nth-child(5) {
+  background-color: #0000FF;
+  color: #f4f4f4;
+}
