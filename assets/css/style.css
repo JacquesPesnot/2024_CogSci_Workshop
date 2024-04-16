@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;	
+}
 tr:nth-child(even) {
   background-color: #F2F2F2;
 }
