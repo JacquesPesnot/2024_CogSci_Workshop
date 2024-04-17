@@ -2,7 +2,7 @@
 
 In-context learning refers to the ability of a neural network to learn from information presented in its context. While traditional learning in neural networks requires adjusting network weights for every new task, in-context learning operates purely by updating internal activations without needing any updates to network weights. The emergence of this ability in large language models has led to a paradigm shift in machine learning and has forced researchers to reconceptualize how they think about learning in neural networks. Looking beyond language models, we can find in-context learning in many computational models relevant to cognitive science, including those that emerge from meta-learning. 
 
-The present workshop aims to delineate and discuss the implications of this phenomenon for the cognitive sciences. For this, we have invited a diverse group of researchers to map out the following questions:
+This workshop presented at [COGSCI 2024](https://cognitivesciencesociety.org/cogsci-2024/ "COGSCI 2024 Website") aims to delineate and discuss the implications of this phenomenon for the cognitive sciences. For this, we have invited a diverse group of researchers to map out the following questions:
 - How well can human learning be modeled using in-context learning? 
 - Which neural architectures support in-context learning?
 - When and why do natural and artificial systems rely on in-context versus in-weights learning?
