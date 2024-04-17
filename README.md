@@ -16,13 +16,15 @@ The present workshop aims to delineate and discuss the implications of this phen
 | 10h | Marcel Binz | Introduction to in-context learning |
 | TBD | Stephanie Chan | What do you need for in-context learning in transformers? |
 | TBD | Roma Patel | Towards understanding the (conceptual) structure of language models |
-| TBD | Ishita Dasgupta | Concepts and categories within context |
 | TBD | Break ||
+| TBD | Ishita Dasgupta | Concepts and categories within context |
 | TBD | Akshay K. Jagadish | Ecologically rational meta-learned inference explains human category learning |
 | TBD | Jacques Pesnot Lerousseau | Training data distribution drives in-context learning in humans and transformers |
+| TBD | Break ||
 | TBD | James Whittington | Different algorithms for in-context learning in prefrontal cortex and the hippocampal formation |
 | TBD | Greta Tucktuke | Modeling human language processing using large language model |
 | TBD | Tom McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
+| TBD | Break ||
 | TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Tom Griffiths <br> Micha Heilbron <br> Brenden Lake | Panel discussion |
 
 
