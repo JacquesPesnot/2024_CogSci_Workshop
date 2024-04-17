@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: In-context learning in natural and artificial intelligence
-description: Workshop COGSCI 2024 IN ROTTERDAM - July 24th 2024
+description: Workshop at COGSCI 2024 (Rotterdam - July 24th 2024 - [Website](https://cognitivesciencesociety.org/cogsci-2024/ "COGSCI 2024 Website"))
 show_downloads: false
