@@ -13,7 +13,7 @@ The present workshop aims to delineate and discuss the implications of this phen
 
 | Time (CEST) | Speaker | Title |
 |:-----|:-----|:-----|
-| 10h | Marcel Binz | Introduction to in-context learning |
+| 10h | Marcel Binz | Introduction to in-context learning <br> *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id blandit est, vitae sollicitudin ligula. Donec dictum sapien libero, quis iaculis turpis laoreet posuere. Praesent lacus mauris, varius a ante sed, egestas varius ligula. Proin iaculis rutrum faucibus. Morbi vitae lorem quis urna condimentum faucibus non bibendum metus. Aliquam eu malesuada justo. Sed vitae arcu eget urna egestas sagittis quis eget elit. Donec urna ante, tempor eu tellus eu, ultrices dictum libero. Suspendisse potenti.*|
 | TBD | Stephanie Chan | What do you need for in-context learning in transformers? |
 | TBD | Roma Patel | Towards understanding the (conceptual) structure of language models |
 | TBD | Break ||
