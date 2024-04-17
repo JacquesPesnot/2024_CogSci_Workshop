@@ -1,5 +1,5 @@
-![Meta learning (Binz et al., 2024)](/assets/images/meta_learning.png){width=100% style="display: block; margin: 0 auto"}
-From Binz, M., Dasgupta, I., Jagadish, A. K., Botvinick, M., Wang, J. X., & Schulz, E. (2023). *[Meta-learned models of cognition](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/metalearned-models-of-cognition/F95059E07AE6E82AE56C4164A5384A18 "Link Binz et al., 2024")*. Behavioral and Brain Sciences, 1-38.
+![Meta learning (Binz et al., 2024)](/assets/images/meta_learning.png)
+From Binz, M., Dasgupta, I., Jagadish, A. K., Botvinick, M., Wang, J. X., & Schulz, E. (2023). *[Meta-learned models of cognition](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/metalearned-models-of-cognition/F95059E07AE6E82AE56C4164A5384A18 "Binz et al., 2023")*. Behavioral and Brain Sciences, 1-38.
 
 # About the workshop
 
