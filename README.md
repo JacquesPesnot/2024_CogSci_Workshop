@@ -32,6 +32,7 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 # Speakers
 
 ### Stephanie Chan
+![Stephanie Chan](/assets/images/stephanie_chan.jpeg)
 Stephanie Chan is a senior research scientist at Google Deepmind. Having a background in both cognitive and computer science, she studies how data distributional properties drive emergent in-context learning.
 
 ### Roma Patel
