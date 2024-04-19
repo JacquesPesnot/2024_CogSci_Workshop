@@ -32,11 +32,11 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 # Speakers
 
 ### Stephanie Chan
-![Stephanie Chan](/assets/images/stephanie_chan.jpeg) Stephanie Chan is a senior research scientist at Google Deepmind. Having a background in both cognitive and computer science, she studies how data distributional properties drive emergent in-context learning.
+![Stephanie Chan](/assets/images/stephanie_chan.jpeg) Stephanie Chan is a senior research scientist at Google Deepmind. Having a background in both cognitive and computer science, she studies how data distributional properties drive emergent in-context learning. <br>
 
 ### Roma Patel
 ![Roma Patel](/assets/images/roma_patel.jpg)
-Roma Patel is a fourth-year PhD student at Brown University. Her research uses language to structure reinforcement learning, aiming towards building more intelligent and interpretable agents that can learn to use language to communicate and coordinate with each other.
+Roma Patel is a fourth-year PhD student at Brown University. Her research uses language to structure reinforcement learning, aiming towards building more intelligent and interpretable agents that can learn to use language to communicate and coordinate with each other. <br>
 
 ### James Whittington
 ![James Whittington](/assets/images/james_whittington.jpg)
@@ -54,18 +54,23 @@ Thomas McCoy is an assistant professor in the Department of Linguistics at Yale 
 # Organisers
 
 ### Marcel Binz
+![Marcel Binz](/assets/images/marcel_binz.jpg)
 Marcel Binz is a research scientist at Helmholtz Munich. He works on modeling human behavior using ideas from meta-learning, resource rationality, and language models. 
 
 ### Ishita Dasgupta
+![Ishita Dasgupta](/assets/images/ishita_dasgupta.jpeg)
 Ishita Dasgupta is a research scientist at Google Deepmind. She uses advances in machine learning to build models of human reasoning, applies cognitive science approaches toward understanding black-box AI systems, and combines these insights to build better, more human-like artificial intelligence.
 
-### Akshay K. Jagadish 
+### Akshay K. Jagadish
+![Akshay K. Jagadish](/assets/images/akshay_jagadish.jpeg)
 Akshay K. Jagadish is a PhD student at the Max Planck Institute for Biological Cybernetics, T ̈ubingen. His current research is dedicated towards understanding the ingredients essential for explaining human adaptive behavior across multiple task domains.
 
 ### Jacques Pesnot Lerousseau
+![Jacques Pesnot Lerousseau](/assets/images/jacques_pesnot_lerousseau.jpeg)
 Jacques Pesnot Lerousseau is a postdoc at the Institute for Language, Communication, and the Brain, Marseille. His current research addresses the question of in-context learning in human brains and artificial neural networks, aiming to uncover the mechanisms behind rule generalization in the brain and algorithms. 
 
 ### Christopher Summerfield
+![Christopher Summerfield](/assets/images/christopher_summerfield.webp)
 Christopher Summerfield is Professor of Cognitive Neuroscience at the University of Oxford. His work focusses on the neural and computational mechanisms by which humans make decisions.
 
  
