@@ -1,6 +1,3 @@
-![Meta learning (Binz et al., 2024)](/assets/images/meta_learning.png)
-From Binz, M., Dasgupta, I., Jagadish, A. K., Botvinick, M., Wang, J. X., & Schulz, E. (2023). *[Meta-learned models of cognition](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/metalearned-models-of-cognition/F95059E07AE6E82AE56C4164A5384A18 "Binz et al., 2023")*. Behavioral and Brain Sciences, 1-38.
-
 # About the workshop
 
 In-context learning refers to the ability of a neural network to learn from information presented in its context. While traditional learning in neural networks requires adjusting network weights for every new task, in-context learning operates purely by updating internal activations without needing any updates to network weights. The emergence of this ability in large language models has led to a paradigm shift in machine learning and has forced researchers to reconceptualize how they think about learning in neural networks. Looking beyond language models, we can find in-context learning in many computational models relevant to cognitive science, including those that emerge from meta-learning. 
@@ -54,15 +51,17 @@ Tom McCoy is an assistant professor in the Department of Linguistics at Yale Uni
 ### Marcel Binz
 Marcel Binz is a research scientist at Helmholtz Munich. He works on modeling human behavior using ideas from meta-learning, resource rationality, and language models. 
 
-### Akshay K. Jagadish 
-Akshay K. Jagadish is a PhD student at the Max Planck Institute for Biological Cybernetics, T ̈ubingen. His current research is dedicated towards understanding the ingredients essential for explaining human adaptive behavior across multiple task domains.
-
 ### Ishita Dasgupta
 Ishita Dasgupta is a research scientist at Google Deepmind. She uses advances in machine learning to build models of human reasoning, applies cognitive science approaches toward understanding black-box AI systems, and combines these insights to build better, more human-like artificial intelligence.
+
+### Akshay K. Jagadish 
+Akshay K. Jagadish is a PhD student at the Max Planck Institute for Biological Cybernetics, T ̈ubingen. His current research is dedicated towards understanding the ingredients essential for explaining human adaptive behavior across multiple task domains.
 
 ### Jacques Pesnot Lerousseau
 Jacques Pesnot Lerousseau is a postdoc at the Institute for Language, Communication, and the Brain, Marseille. His current research addresses the question of in-context learning in human brains and artificial neural networks, aiming to uncover the mechanisms behind rule generalization in the brain and algorithms. 
 
+### Christopher Summerfield
+Christopher Summerfield is Professor of Cognitive Neuroscience at the University of Oxford. His work focusses on the neural and computational mechanisms by which humans make decisions.
 
  
 
