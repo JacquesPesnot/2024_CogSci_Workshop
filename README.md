@@ -26,7 +26,7 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 | TBD | Greta Tuckute | Modeling human language processing using large language model |
 | TBD | Thomas McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
 | TBD | Break ||
-| TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Thomas L. Griffiths <br> Micha Heilbron <br> Brenden M. Lake | Panel discussion |
+| TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Thomas L. Griffiths <br> Brenden M. Lake | Panel discussion |
 
 
 
