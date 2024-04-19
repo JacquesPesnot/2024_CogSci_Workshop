@@ -16,6 +16,10 @@ img {
     margin-bottom: 5%;
     width: 15%;
 }
+p {
+    clear: both;  /* Ensures paragraphs clear any preceding floated images */
+    margin-top: 2rem;  /* Add space before the paragraphs */
+}
 body {
   text-align: start;
 }
