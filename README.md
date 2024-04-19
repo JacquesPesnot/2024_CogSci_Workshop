@@ -24,9 +24,9 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 | TBD | Break ||
 | TBD | James Whittington | Different algorithms for in-context learning in prefrontal cortex and the hippocampal formation |
 | TBD | Greta Tucktuke | Modeling human language processing using large language model |
-| TBD | Tom McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
+| TBD | Thomas McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
 | TBD | Break ||
-| TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Tom Griffiths <br> Micha Heilbron <br> Brenden Lake | Panel discussion |
+| TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Thomas L. Griffiths <br> Micha Heilbron <br> Brenden M. Lake | Panel discussion |
 
 
 # Speakers
