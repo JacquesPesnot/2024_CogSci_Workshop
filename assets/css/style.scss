@@ -9,17 +9,14 @@ tr:nth-child(12) {
   color: #F9FCFF;
 }
 img {
-    display: inline;  /* Set images as inline elements */
-    float: left;
-    margin-left: auto;
-    margin-right: 5rem;
-    margin-bottom: 5%;
-    width: 15%;
+    float: left;  /* Float the images to the left */
+    margin-right: 0.5rem;  /* Add space between the image and the text */
+    margin-bottom: 1rem;  /* Add space below the image to separate it from the next paragraph */
+    width: 15%;  /* Keep the width small */
 }
 p {
+    margin-top: 0;  /* Remove top margin to prevent extra space before the paragraph */
+    margin-bottom: 2rem;  /* Add space after each paragraph to provide separation */
     clear: both;  /* Ensures paragraphs clear any preceding floated images */
-    margin-top: 2rem;  /* Add space before the paragraphs */
 }
-body {
-  text-align: start;
-}
+
