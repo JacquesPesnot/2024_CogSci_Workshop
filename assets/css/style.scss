@@ -8,9 +8,12 @@ tr:nth-child(12) {
   background-color: #373737;
   color: #F9FCFF;
 }
-body {
-  box-sizing: border-box;
-  color:#373737;
-  background: url('/assets/imagesmeta_learning.png') #212121 no-repeat 95% 50%;
+img {
+    float: left;  /* Float the images to the left */
+    margin-right: 0.5rem;  /* Add margin to the right to create space between the image and text */
+    margin-bottom: 1rem;  /* Add space below the image */
+    width: 15%;  /* Keep the width small */
 }
-  
+p {
+    clear: both;  /* Ensures paragraphs clear any preceding floated images */
+}
