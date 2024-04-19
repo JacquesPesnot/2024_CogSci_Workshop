@@ -23,7 +23,7 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 | TBD | Jacques Pesnot Lerousseau | Training data distribution drives in-context learning in humans and transformers |
 | TBD | Break ||
 | TBD | James Whittington | Different algorithms for in-context learning in prefrontal cortex and the hippocampal formation |
-| TBD | Greta Tucktuke | Modeling human language processing using large language model |
+| TBD | Greta Tuckute | Modeling human language processing using large language model |
 | TBD | Thomas McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
 | TBD | Break ||
 | TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Thomas L. Griffiths <br> Micha Heilbron <br> Brenden M. Lake | Panel discussion |
@@ -31,20 +31,23 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 
 # Speakers
 
-### Stephanie Chan
-![Stephanie Chan](/assets/images/stephanie_chan.jpeg)
+### ![Stephanie Chan](/assets/images/stephanie_chan.jpeg) Stephanie Chan
 Stephanie Chan is a senior research scientist at Google Deepmind. Having a background in both cognitive and computer science, she studies how data distributional properties drive emergent in-context learning.
 
 ### Roma Patel
+![Roma Patel](/assets/images/roma_patel.jpg)
 Roma Patel is a fourth-year PhD student at Brown University. Her research uses language to structure reinforcement learning, aiming towards building more intelligent and interpretable agents that can learn to use language to communicate and coordinate with each other.
 
 ### James Whittington
+![James Whittington](/assets/images/james_whittington.jpg)
 James Whittington is a Sir Henry Wellcome postdoctoral fellow at Stanford University & the University of Oxford. He works on building models and theories for understanding structured neural representations in brains and machines.
 
-### Greta Tucktuke
-Greta Tucktuke is a PhD candidate at the Department of Brain and Cognitive Sciences at MIT. She studies how language is processed in the biological brain, and how the representations and processes in artificial neural networks models compare to those in humans. 
+### Greta Tuckute
+![Greta Tuckute](/assets/images/greta_tuckute.jpeg)
+Greta Tuckute is a PhD candidate at the Department of Brain and Cognitive Sciences at MIT. She studies how language is processed in the biological brain, and how the representations and processes in artificial neural networks models compare to those in humans. 
 
 ### Thomas McCoy
+![Thomas McCoy](/assets/images/tom_mccoy.jpg)
 Thomas McCoy is an assistant professor in the Department of Linguistics at Yale University. He studies the computational principles that underlie human language using techniques from cognitive science, machine learning, and natural language processing.
 
 
