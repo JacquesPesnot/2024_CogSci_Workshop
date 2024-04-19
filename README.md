@@ -29,6 +29,8 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 | TBD | Christopher Summerfield <br> Morgan Barense <br> Alison Gopnick <br> Thomas L. Griffiths <br> Micha Heilbron <br> Brenden M. Lake | Panel discussion |
 
 
+
+
 # Speakers
 
 ### Stephanie Chan
@@ -50,6 +52,8 @@ Greta Tuckute is a PhD candidate at the Department of Brain and Cognitive Scienc
 ### Thomas McCoy
 ![Thomas McCoy](/assets/images/tom_mccoy.jpg)
 Thomas McCoy is an assistant professor in the Department of Linguistics at Yale University. He studies the computational principles that underlie human language using techniques from cognitive science, machine learning, and natural language processing.
+
+
 
 
 # Organisers
