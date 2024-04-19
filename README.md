@@ -68,7 +68,7 @@ Ishita Dasgupta is a research scientist at Google Deepmind. She uses advances in
 
 ### Akshay K. Jagadish
 ![Akshay K. Jagadish](/assets/images/akshay_jagadish.jpeg)
-Akshay K. Jagadish is a PhD student at the Max Planck Institute for Biological Cybernetics, T ̈ubingen. His current research is dedicated towards understanding the ingredients essential for explaining human adaptive behavior across multiple task domains.
+Akshay K. Jagadish is a PhD student at the Max Planck Institute for Biological Cybernetics, Tübingen. His current research is dedicated towards understanding the ingredients essential for explaining human adaptive behavior across multiple task domains.
 
 ### Jacques Pesnot Lerousseau
 ![Jacques Pesnot Lerousseau](/assets/images/jacques_pesnot_lerousseau.jpeg)
