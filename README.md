@@ -31,12 +31,10 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 
 # Speakers
 
-### Stephanie Chan
-![Stephanie Chan](/assets/images/stephanie_chan.jpeg) 
+### ![Stephanie Chan](/assets/images/stephanie_chan.jpeg) Stephanie Chan
 Stephanie Chan is a senior research scientist at Google Deepmind. Having a background in both cognitive and computer science, she studies how data distributional properties drive emergent in-context learning. 
 
-### Roma Patel
-![Roma Patel](/assets/images/roma_patel.jpg)
+### ![Roma Patel](/assets/images/roma_patel.jpg) Roma Patel
 Roma Patel is a fourth-year PhD student at Brown University. Her research uses language to structure reinforcement learning, aiming towards building more intelligent and interpretable agents that can learn to use language to communicate and coordinate with each other. 
 
 ### James Whittington
