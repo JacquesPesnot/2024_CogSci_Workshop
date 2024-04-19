@@ -14,7 +14,7 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 
 | **Time (CEST)** | **Speaker** | **Title and abstract** |
 |:-----|:-----|:-----|
-| 10h | Marcel Binz | Introduction to in-context learning |
+| TBD | Marcel Binz | Introduction to in-context learning |
 | TBD | Stephanie Chan | What do you need for in-context learning in transformers? |
 | TBD | Roma Patel | Towards understanding the (conceptual) structure of language models |
 | TBD | Break ||
