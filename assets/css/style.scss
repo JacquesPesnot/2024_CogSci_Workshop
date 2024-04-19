@@ -9,7 +9,7 @@ tr:nth-child(12) {
   color: #F9FCFF;
 }
 img {
-    display: block;
+    display: inline;  /* Set images as inline elements */
     float: left;
     margin-left: auto;
     margin-right: 5rem;
