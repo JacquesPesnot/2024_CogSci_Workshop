@@ -9,11 +9,7 @@ tr:nth-child(12) {
   color: #F9FCFF;
 }
 img {
-    float: left;  /* Float the images to the left */
-    margin-right: 0.5rem;  /* Add margin to the right to create space between the image and text */
-    margin-bottom: 1rem;  /* Add space below the image */
-    width: 15%;  /* Keep the width small */
-}
-p {
-    clear: both;  /* Ensures paragraphs clear any preceding floated images */
+    margin-bottom: 20px; /* Adds space below the image */
+    margin-top: 20px; /* Adds space above the image */
+    display: block; /* Ensures images are treated as block elements */
 }
