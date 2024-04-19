@@ -8,18 +8,9 @@ tr:nth-child(12) {
   background-color: #373737;
   color: #F9FCFF;
 }
-img {
-    float: left;  /* Float the images to the left */
-    margin-right: 0.5rem;  /* Add space between the image and the text */
-    margin-bottom: 1rem;  /* Add space below the image to separate it from the next paragraph */
-    width: 15%;  /* Keep the width small */
-    padding-right: 2rem;  /* Add padding to the right of the image to create space */
-}
-p {
-    margin-top: 0;  /* Remove top margin to prevent extra space before the paragraph */
-    margin-bottom: 2rem;  /* Add space after each paragraph to provide separation */
-    clear: both;  /* Ensures paragraphs clear any preceding floated images */
-}
-#header_wrap {
+body {
+  box-sizing: border-box;
+  color:#373737;
   background: url('/assets/imagesmeta_learning.png') #212121 no-repeat 95% 50%;
 }
+  
