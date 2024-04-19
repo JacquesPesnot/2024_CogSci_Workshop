@@ -43,8 +43,8 @@ James Whittington is a Sir Henry Wellcome postdoctoral fellow at Stanford Univer
 ### Greta Tucktuke
 Greta Tucktuke is a PhD candidate at the Department of Brain and Cognitive Sciences at MIT. She studies how language is processed in the biological brain, and how the representations and processes in artificial neural networks models compare to those in humans. 
 
-### Tom McCoy
-Tom McCoy is an assistant professor in the Department of Linguistics at Yale University. He studies the computational principles that underlie human language using techniques from cognitive science, machine learning, and natural language processing.
+### Thomas McCoy
+Thomas McCoy is an assistant professor in the Department of Linguistics at Yale University. He studies the computational principles that underlie human language using techniques from cognitive science, machine learning, and natural language processing.
 
 
 # Organisers
