@@ -36,7 +36,7 @@ Stephanie Chan is a senior research scientist at Google Deepmind. Having a backg
 
 ### Roma Patel
 ![Roma Patel](/assets/images/roma_patel.jpg)
-Roma Patel is a fourth-year PhD student at Brown University. Her research uses language to structure reinforcement learning, aiming towards building more intelligent and interpretable agents that can learn to use language to communicate and coordinate with each other.
+Roma Patel is a Senior Research Scientist at DeepMind working on grounded language learning, interpretability and safety of LLMs.
 
 ### James Whittington
 ![James Whittington](/assets/images/james_whittington.jpg)
