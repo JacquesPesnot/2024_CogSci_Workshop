@@ -15,16 +15,16 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 | **Time (CEST)** | **Speaker** | **Title** |
 |:-----|:-----|:-----|
 | 9:00 – 9:30 | Marcel Binz | Introduction to in-context learning |
-| 9:30 – 10:00 | Thomas McCoy | Understanding and controlling neural networks through the problem they are trained to solve |
-| 10:00 – 10:30 | Coffee break ||
+| 9:30 – 10:00 | Thomas McCoy | Understanding and controlling neural networks through the problem they are trained to solve ||
+| 10:00 – 10:30 | Coffee break |
 | 10:30 – 11:00 | Jacques Pesnot Lerousseau | Training data distribution drives in-context learning in humans and transformers |
 | 11:00 – 11:30 | Greta Tuckute | LLMs as strong learners: applications to language neuroscience |
-| 11:30 – 12:00 | Roma Patel | Towards understanding the (conceptual) structure of language models |
-| 12:00 – 13:00 | Lunch break ||
+| 11:30 – 12:00 | Roma Patel | Towards understanding the (conceptual) structure of language models ||
+| 12:00 – 13:00 | Lunch break |
 | 13:00 – 13:30 | Akshay K. Jagadish | Ecologically rational meta-learned inference explains human category learning |
 | 13:30 – 14:00 | James Whittington | Different algorithms for in-context learning in prefrontal cortex and the hippocampal formation |
-| 14:00 – 14:30 | Stephanie Chan | What do you need for in-context learning in transformers? |
-| 14:30 – 15:00 | Coffee break ||
+| 14:00 – 14:30 | Stephanie Chan | What do you need for in-context learning in transformers? ||
+| 14:30 – 15:00 | Coffee break |
 | 15:00 – 15:30 | Ishita Dasgupta | Concepts and categories within context |
 | 15:30 – 16:30 | Christopher Summerfield <br> Morgan Barense <br> Micha Heilbron <br> Thomas L. Griffiths <br> Brenden M. Lake | Panel discussion |
 
