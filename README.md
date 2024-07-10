@@ -36,7 +36,7 @@ Stephanie Chan is a senior research scientist at Google Deepmind. Having a backg
 
 ### Roma Patel
 ![Roma Patel](/assets/images/roma_patel.jpg)
-Roma Patel is a Senior Research Scientist at DeepMind working on grounded language learning, interpretability and safety of LLMs.
+Roma Patel is a senior research scientist at Google Deepmind working on grounded language learning, interpretability and safety of LLMs.
 
 ### James Whittington
 ![James Whittington](/assets/images/james_whittington.jpg)
