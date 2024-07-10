@@ -2,9 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-tr:nth-child(4),
-tr:nth-child(8),
-tr:nth-child(12) {
+tr:nth-child(3),
+tr:nth-child(7),
+tr:nth-child(11) {
   background-color: #373737;
   color: #F9FCFF;
 }
