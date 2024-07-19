@@ -25,7 +25,7 @@ Workshop proposal available [here](assets/pdf/In_context_learning_in_natural_and
 | 13:30 – 14:00 | James Whittington | Different algorithms for in-context learning in prefrontal cortex and the hippocampal formation |
 | 14:00 – 14:30 | Stephanie Chan | What do you need for in-context learning in transformers? |
 | 14:30 – 15:00 | Coffee break ||
-| 15:00 – 15:30 | Ishita Dasgupta | Concepts and categories within context |
+| 15:00 – 15:30 | Zhu Jianqiao | Transforming language models into cognitive models |
 | 15:30 – 16:30 | Christopher Summerfield <br> Morgan Barense <br> Micha Heilbron <br> Thomas L. Griffiths <br> Brenden M. Lake | Panel discussion |
 
 # Speakers
@@ -49,6 +49,11 @@ Greta Tuckute is a PhD candidate at the Department of Brain and Cognitive Scienc
 ### Thomas McCoy
 ![Thomas McCoy](/assets/images/tom_mccoy.jpg)
 Thomas McCoy is an assistant professor in the Department of Linguistics at Yale University. He studies the computational principles that underlie human language using techniques from cognitive science, machine learning, and natural language processing.
+
+### Zhu Jianqiao
+![Zhu Jianqiao](/assets/images/zhu.jpg)
+Zhu Jianqiao is a postdoctoral researcher in the Department of Computer Science at Princeton University. He explores the computational principles underlying human judgment and decision-making processes. His current research aims to bridge Bayesian and neural network models of human cognition.
+
 
 
 
